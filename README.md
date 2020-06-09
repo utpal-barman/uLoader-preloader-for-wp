@@ -1,4 +1,4 @@
-# U Loader - A Simple Preloader
+# uLoader - A Simple WP Preloader
 ###### Contributors: utpalbarmanbd
 ###### Tags: preloader, loader, wp loader, wp preloader, spinner
 ###### Requires at least: 4.7
@@ -23,7 +23,7 @@ A few notes about this plugin:
 
 ## Get Started
 
-This plugin is already live on Wordpress repository. You can download directly download from there. \
+This plugin is already live on Wordpress repository. You can download directly download from there.
 
 Plugin Link - https://wordpress.org/plugins/u-loader/
 
