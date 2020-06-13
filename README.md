@@ -47,3 +47,31 @@ Yes, you can put a valid GIF, it'll do the rest.
 
 #### 1.0.0
 * A brand new plugin is updated.
+
+## Spread the word :hatched_chick:
+
+To learn more about me, join the conversation:
+- [LinkedIn](https://www.linkedin.com/in/utpal-barman/) 
+- [Skype](https://join.skype.com/invite/YKZe1ad0yuyK)
+- [Telegram](https://t.me/utpal_barman)
+- [Facebook](https://www.facebook.com/utpal777)
+- [Instragram](https://www.instagram.com/utpal_barman_/)
+
+## Contributor
+
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<a href="https://www.linkedin.com/in/utpal-barman/"><img src="https://github.com/utpal-barman/ushop/raw/master/utpal-barman.png" width="100px;" alt=""/>
+<br />
+<b>Utpal Barman</b></a>
+<br/>
+<i>Software Engineer</i>
+<br/>
+Email: <a href="mailto:utpal.barman.bd@gmail.com">utpal.barman.bd@gmail.com</a>
+
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+
+
