@@ -23,7 +23,7 @@ A few notes about this plugin:
 
 ## Get Started
 
-This plugin is already live on Wordpress repository. You can download directly download from there.
+This plugin is already live on the Wordpress repository. You can download directly download from there.
 
 Plugin Link - https://wordpress.org/plugins/u-loader/
 
@@ -55,7 +55,7 @@ To learn more about me, join the conversation:
 - [Skype](https://join.skype.com/invite/YKZe1ad0yuyK)
 - [Telegram](https://t.me/utpal_barman)
 - [Facebook](https://www.facebook.com/utpal777)
-- [Instragram](https://www.instagram.com/utpal_barman_/)
+- [Instagram](https://www.instagram.com/utpal_barman_/)
 
 ## Contributor
 
